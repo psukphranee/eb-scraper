@@ -1,0 +1,43 @@
+[{'name': {'text': 'DCJazzFest From Home Series', 'html': 'DCJazzFest From Home Series'},
+
+ 'description': {'text': "Tune in to the DCJF YouTube channel every Saturday at 7 PM to catch this week's edition of the DCJazzFest From Home video series!", 'html': "Tune in to the DCJF YouTube channel every Saturday at 7 PM to catch this week's edition of the DCJazzFest From Home video series!"},
+
+ 'id': '103369621320', 'url': 'https://www.eventbrite.com/e/dcjazzfest-from-home-series-tickets-103369621320', 'start': {'timezone': 'America/New_York', 'local': '2020-07-25T19:00:00', 'utc': '2020-07-25T23:00:00Z'},
+
+  'end': {'timezone': 'America/New_York',
+   'local': '2020-07-25T21:00:00',
+    'utc': '2020-07-26T01:00:00Z'},
+
+   'organization_id': '119015619107',
+    'created': '2020-04-22T20:14:04Z',
+    'changed': '2020-06-22T17:20:43Z',
+     'published': '2020-04-22T20:31:08Z',[{'name': {'text': 'DCJazzFest From Home Series', 'html': 'DCJazzFest From Home Series'}, 'description': {'text': "Tune in to the DCJF YouTube channel every Saturday at 7 PM to catch this week's edition of the DCJazzFest From Home video series!", 'html': "Tune in to the DCJF YouTube channel every Saturday at 7 PM to catch this week's edition of the DCJazzFest From Home video series!"}, 'id': '103369621320', 'url': 'https://www.eventbrite.com/e/dcjazzfest-from-home-series-tickets-103369621320', 'start': {'timezone': 'America/New_York', 'local': '2020-07-25T19:00:00', 'utc': '2020-07-25T23:00:00Z'}, 'end': {'timezone': 'America/New_York', 'local': '2020-07-25T21:00:00', 'utc': '2020-07-26T01:00:00Z'}, 'organization_id': '119015619107', 'created': '2020-04-22T20:14:04Z', 'changed': '2020-06-22T17:20:43Z', 'published': '2020-04-22T20:31:08Z', 'capacity': None, 'capacity_is_custom': None, 'status': 'live', 'currency': 'USD', 'listed': True, 'shareable': False, 'online_event': True, 'tx_time_limit': 480, 'hide_start_date': False, 'hide_end_date': False, 'locale': 'en_US', 'is_locked': False, 'privacy_setting': 'unlocked', 'is_series': True, 'is_series_parent': False, 'inventory_type': 'limited', 'is_reserved_seating': False, 'show_pick_a_seat': False, 'show_seatmap_thumbnail': False, 'show_colors_in_seatmap_thumbnail': False, 'source': 'coyote', 'is_free': True, 'version': '3.7.0', 'summary': "Tune in to the DCJF YouTube channel every Saturday at 7 PM to catch this week's edition of the DCJazzFest From Home video series!", 'logo_id': '99457776', 'organizer_id': '8330211135', 'venue_id': None, 'category_id': '103', 'subcategory_id': None, 'format_id': '6', 'resource_uri': 'https://www.eventbriteapi.com/v3/events/103369621320/', 'is_externally_ticketed': False, 'series_id': '103369585212', 'logo': {'crop_mask': {'top_left': {'x': 382, 'y': 0}, 'width': 1068, 'height': 534}, 'original': {'url': 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F99457776%2F119015619107%2F1%2Foriginal.20200424-194945?auto=format%2Ccompress&q=75&sharp=10&s=fb7c9f74a46bd2f9433f86f903519cd4', 'width': 1600, 'height': 534}, 'id': '99457776', 'url': 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F99457776%2F119015619107%2F1%2Foriginal.20200424-194945?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=382%2C0%2C1068%2C534&s=2e944052646226622d85b975974c18e8', 'aspect_ratio': '2', 'edge_color': None, 'edge_color_set': True}}]
+
+      'capacity': None, 'capacity_is_custom': None, 'status': 'live',
+       'currency': 'USD',
+        'listed': True, 'shareable': False, 'online_event': True, 'tx_time_limit': 480, 'hide_start_date': False, 'hide_end_date': False, 'locale': 'en_US',
+         'is_locked': False, 'privacy_setting': 'unlocked',
+          'is_series': True,
+           'is_series_parent': False,
+            'inventory_type': 'limited',
+           'is_reserved_seating': False,
+            'show_pick_a_seat': False,
+             'show_seatmap_thumbnail': False,
+              'show_colors_in_seatmap_thumbnail': False,
+               'source': 'coyote',
+            'is_free': True,
+             'version': '3.7.0',
+             'summary': "Tune in to the DCJF YouTube channel every Saturday at 7 PM to catch this week's edition of the DCJazzFest From Home video series!",
+              'logo_id': '99457776',
+              'organizer_id': '8330211135',
+               'venue_id': None, 'category_id': '103',
+                'subcategory_id': None, 'format_id': '6',
+                 'resource_uri': 'https://www.eventbriteapi.com/v3/events/103369621320/',
+                  'is_externally_ticketed': False, 'series_id': '103369585212',
+                   'logo': {'crop_mask': {'top_left': {'x': 382, 'y': 0},
+
+    'width': 1068, 'height': 534},
+
+     'original': {'url': 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F99457776%2F119015619107%2F1%2Foriginal.20200424-194945?auto=format%2Ccompress&q=75&sharp=10&s=fb7c9f74a46bd2f9433f86f903519cd4', 'width': 1600, 'height': 534},
+
+      'id': '99457776', 'url': 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F99457776%2F119015619107%2F1%2Foriginal.20200424-194945?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=382%2C0%2C1068%2C534&s=2e944052646226622d85b975974c18e8', 'aspect_ratio': '2', 'edge_color': None, 'edge_color_set': True}}]
